@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CMake.vcxproj" Id="a94d21d8-5e75-4ed1-800f-05bb105206fb" />
+</Solution>
